@@ -1,0 +1,1 @@
+# thing-explainer-checker
